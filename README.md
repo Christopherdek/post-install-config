@@ -1,2 +1,2 @@
 # post-install-config
-Post installation and configuration
+osTicket: Post installation and configuration
