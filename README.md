@@ -29,24 +29,24 @@
   <img src="https://i.imgur.com/u7bLxp0.png" height="80%" width="80%" alt="Configuration Steps">
 </p>
 
-After installing osTicket, it is now time to make configurations to use it as a ticketing system. One thing to note is that I switch between Admin and Agent panels as each panel has different configurations. To tell which panel is used, look at the top right of the osTicket screen. If it reads Agent Panel, the Admin panel is the one being used and vice versa.
+After installing osTicket, follow these steps to configure it as an efficient ticketing system. Note that configurations differ between the Admin and Agent panels, indicated at the top right of the osTicket screen.
 
 1. **Create Supreme Admin Role:**
-   - Open the Admin panel, go to the Agents Menu, and click on Roles to create a new role called Supreme Admin.
+   - Navigate to the Admin panel, access the Agents Menu, and click on Roles to establish a new role named "Supreme Admin."
 
 <p align="center">
   <img src="https://i.imgur.com/qvyENL6.png" height="80%" width="80%" alt="Configuration Steps">
 </p>
 
 2. **Create System Administrators Department:**
-   - In the Admin panel, open the Agents menu, and click on Departments to create a new Department within osTicket.
+   - In the Admin panel, go to the Agents menu, click on Departments, and create a new Department within osTicket.
 
 <p align="center">
   <img src="https://i.imgur.com/V5QAtdg.png" height="80%" width="80%" alt="Configuration Steps">
 </p>
 
 3. **Create Level II Support Team:**
-   - Enter the Admin panel, open the Agents menu, click on Teams, and add any new teams that need to be created.
+   - Access the Admin panel, go to the Agents menu, click on Teams, and add any necessary teams.
 
 <p align="center">
   <img src="https://i.imgur.com/wnhpEZL.png" height="80%" width="80%" alt="Configuration Steps">
@@ -54,29 +54,29 @@ After installing osTicket, it is now time to make configurations to use it as a 
 </p>
 
 4. **Create New Agents:**
-   - Enter the Admin panel, open the Agents menu, click on Add New Agent, and create the account credentials for each new agent.
+   - In the Admin panel, go to the Agents menu, click on Add New Agent, and set up account credentials for each new agent.
 
 <p align="center">
   <img src="https://i.imgur.com/Y2nXl7Q.png" height="80%" width="80%" alt="Configuration Steps">
 </p>
 
 5. **Create New Users:**
-   - Enter the Agents panel, open the Users menu, click on Add User, and create the account credentials for each new user.
+   - In the Agents panel, go to the Users menu, click on Add User, and create account credentials for each new user.
 
 <p align="center">
   <img src="https://i.imgur.com/brPLjiI.png" height="80%" width="80%" alt="Configuration Steps">
 </p>
 
 6. **Define SLAs (Service Level Agreements):**
-   - Enter the Admin panel, open the Manage menu, click on SLA, and create any needed SLAs.
+   - Access the Admin panel, go to the Manage menu, click on SLA, and create any needed SLAs.
 
 <p align="center">
   <img src="https://i.imgur.com/u5HZAyP.png" height="80%" width="80%" alt="Configuration Steps">
 </p>
 
 7. **Create Help Topics:**
-   - Enter the Admin panel, open the Manage menu, click on Help Topics, and click on Add New Help Topic.
+   - In the Admin panel, go to the Manage menu, click on Help Topics, and click on Add New Help Topic.
 
 <h2 align="center">osTicket Configurations are Complete</h2>
 
-Now that the configurations have been set in place, you can utilize osTicket as a proper ticketing system. You can create tickets and allocate them as if you were in a real environment.
+With these configurations in place, osTicket is ready to serve as an effective ticketing system. Utilize its features to create, manage, and allocate tickets seamlessly.
